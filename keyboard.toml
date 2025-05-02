@@ -39,3 +39,6 @@ keymap = [
 [storage]
 # Storage feature is enabled by default
 # enabled = false
+
+[ble]
+enabled = true
