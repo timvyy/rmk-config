@@ -2,17 +2,14 @@
 [keyboard]
 name = "CYOA 5x12"
 product_name = "CYOA 5x12"
-vendor_id = 0x4c4b
-#product_id = 0x4643
+vendor_id = 0x1209
+product_id = 0x0001
 manufacturer = "STHLM kb"
 chip = "nrf52840"
 
 [matrix]
-# Input and output pins are mandatory
 input_pins = ["P0_17", "P0_20", "P0_22", "P0_24", "P1_00", "P0_11", "P1_04", "P1_06"]
 output_pins = ["P0_31", "P0_29", "P0_02", "P1_15", "P1_13", "P1_11", "P0_10", "P0_09"]
-# WARNING: Currently row2col/col2row is set in RMK's feature gate, configs here do nothing actually
-# row2col = true
 
 [layout]
 rows = 8
@@ -26,22 +23,6 @@ keymap = [
         ["_"]
     ]
 ]
-
-[light]
-# All light pins are high-active by default, uncomment if you want it to be low-active
-# capslock.pin = "PB2"
-# capslock.low_active = true
-# scrolllock.pin = "PA3"
-# scrolllock.low_active = true
-# Just ignore if no light pin is used for it
-# numslock.pin = "PA5"
-# numslock.low_active = true
-
-
-
-[storage]
-# Storage feature is enabled by default
-# enabled = false
 
 [ble]
 enabled = true
