@@ -24,6 +24,13 @@ matrix_map = """
 """
 
 [[layer]]
+keys = """
+A  B  C  D  E  F  G  H  I  J  K  L
+A  B  C  D  E  F  G  H  I  J  K  L
+A  B  C  D  E  F  G  H  I  J  K  L
+A  B  C  D  E  F  G  H  I  J  K  L
+A  B  C  D  E   F    H  I  J  K  L
+"""
 
 [ble]
 enabled = true
