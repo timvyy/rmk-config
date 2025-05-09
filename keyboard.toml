@@ -10,6 +10,7 @@ board = "nice!nano_v2"
 [matrix]
 input_pins = ["P0_17", "P0_20", "P0_22", "P0_24", "P1_00", "P0_11", "P1_04", "P1_06"]
 output_pins = ["P0_31", "P0_29", "P0_02", "P1_15", "P1_13", "P1_11", "P0_10", "P0_09"]
+row2col = true
 
 [layout]
 rows = 8
