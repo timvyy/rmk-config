@@ -2,8 +2,8 @@
 [keyboard]
 name = "CYOA 5x12"
 product_name = "CYOA 5x12"
-vendor_id = 0x1209
-product_id = 0x0001
+vendor_id = 0x4c4b
+product_id = 0x4643
 manufacturer = "STHLM kb"
 board = "nice!nano_v2"
 
@@ -43,9 +43,6 @@ keymap = [
 #A  B  C  D  E  F  G  H  I  J  K  L
 #A  B  C  D  E   F    H  I  J  K  L
 #"""
-
-[storage]
-enabled = true
 
 [ble]
 enabled = true
