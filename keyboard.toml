@@ -44,8 +44,5 @@ keymap = [
 #A  B  C  D  E   F    H  I  J  K  L
 #"""
 
-[storage]
-enabled = false
-
 [ble]
-enabled = true
+enabled = false
