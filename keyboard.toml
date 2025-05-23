@@ -17,7 +17,7 @@ cols = 8
 layers = 1
 keymap = [
     [
-        ["Grave", "Tab", "Escape", "LShift", "8", "K", "_", "_"],
+        ["Grave", "Tab", "Escape", "LShift", "8", "K", "Reboot", "_"],
         ["1", "Q", "A", "Z", "9", "L", "LCtrl", "_"],
         ["2", "W", "S", "X", "0", "Semicolon", "LAlt", "_"],
         ["3", "E", "D", "C", "Backspace", "Quote", "LGui", "_"],
