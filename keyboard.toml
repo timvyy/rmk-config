@@ -23,7 +23,7 @@ keymap = [
         ["LShift", "Z", "X", "C", "V", "B", "N", "M"],
         ["8", "9", "0", "Backspace", "I", "O", "P", "Delete"],
         ["K", "L", "Semicolon", "Quote", "Comma", "Dot", "Slash", "Enter"],
-        ["_", "LCtrl", "LAlt", "LGui", "_", "_", "Space", "_"],
+        ["Bootloader", "LCtrl", "LAlt", "LGui", "_", "_", "Space", "_"],
         ["_", "_", "_", "_", "Left", "Down", "Up", "Right"]
     ]
 ]
