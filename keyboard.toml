@@ -18,14 +18,14 @@ cols = 8
 layers = 1
 keymap = [
     [
-        ["Grave", "Tab", "Escape", "LShift", "8", "K", "Bootloader", "_"],
-        ["1", "Q", "A", "Z", "9", "L", "LCtrl", "_"],
-        ["2", "W", "S", "X", "0", "Semicolon", "LAlt", "_"],
-        ["3", "E", "D", "C", "Backspace", "Quote", "LGui", "_"],
-        ["4", "R", "F", "V", "I", "Comma", "_", "Left"],
-        ["5", "T", "G", "B", "O", "Dot", "Space", "Down"],
-        ["6", "Y", "H", "N", "P", "Slash", "_", "Up"],
-        ["7", "U", "J", "M", "Delete", "Enter", "_", "Right"]
+        ["Grave", "1", "2", "3", "4", "5", "6", "7"],
+        ["Tab", "Q", "W", "E", "R", "T", "Y", "U"],
+        ["Escape", "A", "S", "D", "F", "G", "H", "J"],
+        ["LShift", "Z", "X", "C", "V", "B", "N", "M"],
+        ["8", "9", "0", "Backspace", "I", "O", "P", "Delete"],
+        ["K", "L", "Semicolon", "Quote", "Comma", "Dot", "Slash", "Enter"],
+        ["Bootloader", "LCtrl", "LAlt", "LGui", "_", "_", "Space", "_"],
+        ["_", "_", "_", "_", "Left", "Down", "Up", "Right"]
     ]
 ]
 #matrix_map = """
